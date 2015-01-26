@@ -18,5 +18,15 @@ namespace aspTest
             return "hello world";
         }
         
+
+        public static string givemeaSwear()
+        {
+            return "Shit";
+        }
+
+        public static string whoUnderstands()
+        {
+            return "not me";
+        }
     }
 }
